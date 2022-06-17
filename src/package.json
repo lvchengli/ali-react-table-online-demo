@@ -1,0 +1,30 @@
+{
+  "title": "ali-react-table 在线 demo",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "ali-react-table": "2.2.1",
+    "antd": "4.16.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^4.0.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "name": "ali-react-table-online-demo",
+  "description": ""
+}
